@@ -17,15 +17,11 @@ jobs:
         source:
           # Tech job boards
           - {
-              name: hn,
-              url: "https://news.ycombinator.com/shows",
-              selector: ".titleline>a",
+              name: "Bandsintown",
+              url: "https://www.bandsintown.com/all-dates/genre/all-genres",
+              selector: 'a[href*="/e/"]',
             }
-          - {
-              name: wwr,
-              url: "https://weworkremotely.com/remote-shows",
-              selector: ".feature a",
-            }
+
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
