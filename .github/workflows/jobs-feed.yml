@@ -1,4 +1,4 @@
-name: jobs-feed
+name: shows-feed
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
   pages: write
 
-jobs:
+shows:
   crawl:
     strategy:
       fail-fast: false
@@ -18,12 +18,12 @@ jobs:
           # Tech job boards
           - {
               name: hn,
-              url: "https://news.ycombinator.com/jobs",
+              url: "https://news.ycombinator.com/shows",
               selector: ".titleline>a",
             }
           - {
               name: wwr,
-              url: "https://weworkremotely.com/remote-jobs",
+              url: "https://weworkremotely.com/remote-shows",
               selector: ".feature a",
             }
     runs-on: ubuntu-latest
@@ -47,7 +47,7 @@ jobs:
             fi
           done
       - run: mkdir -p results
-      - name: Crawl jobs
+      - name: Crawl shows
         run: bun src/crawler.ts
         env:
           SOURCE_NAME: ${{ matrix.source.name }}

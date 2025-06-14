@@ -2,9 +2,10 @@ import { openai } from "@ai-sdk/openai";
 import { generateObject } from "ai";
 import { load } from "cheerio";
 import { z } from "zod";
+import { sources } from "./sources";
 
 const jobSchema = z.object({
-	jobs: z.array(
+	shows: z.array(
 		z.object({
 			title: z.string(),
 			company: z.string(),
@@ -15,9 +16,14 @@ const jobSchema = z.object({
 });
 
 const crawl = async () => {
-	const { SOURCE_URL, SOURCE_NAME, SELECTOR = "a" } = process.env;
-	if (!SOURCE_URL || !SOURCE_NAME)
-		throw new Error("Missing SOURCE_URL or SOURCE_NAME");
+	let { SOURCE_URL, SOURCE_NAME, SELECTOR } = process.env;
+	if (!SOURCE_URL || !SOURCE_NAME) {
+		const fallback = sources[0];
+		if (!fallback) throw new Error("No sources available");
+		SOURCE_URL = fallback.url;
+		SOURCE_NAME = fallback.name;
+		SELECTOR = fallback.selector;
+	}
 
 	try {
 		const html = await fetch(SOURCE_URL).then((r) => r.text());
@@ -57,9 +63,9 @@ Links: ${JSON.stringify(links)}`,
 
 		await Bun.write(
 			`results/${SOURCE_NAME}.json`,
-			JSON.stringify(object.jobs || []),
+			JSON.stringify(object.shows || []),
 		);
-		console.log(`✓ ${SOURCE_NAME}: found ${object.jobs?.length || 0} jobs`);
+		console.log(`✓ ${SOURCE_NAME}: found ${object.shows?.length || 0} shows`);
 	} catch (error) {
 		console.error(`✗ ${SOURCE_NAME}:`, error);
 		await Bun.write(`results/${SOURCE_NAME}.json`, "[]");

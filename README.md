@@ -11,7 +11,7 @@ Free daily job board powered by GitHub Pages + Actions + AI crawlers. Zero hosti
    - Name: `OPENAI_API_KEY`
    - Value: Your OpenAI API key from [platform.openai.com](https://platform.openai.com)
 3. **Enable GitHub Pages** (Settings → Pages → Deploy from branch: `gh-pages`)
-4. **Run workflow** (Actions → `jobs-feed` → Run workflow)
+4. **Run workflow** (Actions → `shows-feed` → Run workflow)
 
 Your job board: `https://YOUR_USERNAME.github.io/REPO_NAME/`
 
@@ -23,10 +23,10 @@ Your job board: `https://YOUR_USERNAME.github.io/REPO_NAME/`
 # Install
 bun install
 
-# Test single source (27 jobs)
-SOURCE_URL=https://news.ycombinator.com/jobs SOURCE_NAME=test SELECTOR='.titleline>a' bun crawl
+# Test single source (27 shows)
+SOURCE_URL=https://news.ycombinator.com/shows SOURCE_NAME=test SELECTOR='.titleline>a' bun crawl
 
-# Test multiple sources (75+ jobs)
+# Test multiple sources (75+ shows)
 bun multi-crawl
 
 # Build feed
@@ -38,12 +38,12 @@ bun serve
 
 ## Current Sources
 
-**Working (75+ jobs/day):**
+**Working (75+ shows/day):**
 
-- **HackerNews Jobs** - YC companies (~27 jobs)
-- **WeWorkRemotely** - Remote positions (~48 jobs)
+- **HackerNews Shows** - YC companies (~27 shows)
+- **WeWorkRemotely** - Remote positions (~48 shows)
 
-**To add more sources**, edit `src/multi-crawl.ts` and `.github/workflows/jobs-feed.yml`
+**To add more sources**, edit `src/multi-crawl.ts` and `.github/workflows/shows-feed.yml`
 
 ## What You Get
 
@@ -61,7 +61,7 @@ bun serve
 - Workflow has 3 retry attempts with 30s delays
 - Just re-run the workflow later
 
-**No jobs showing up?**
+**No shows showing up?**
 
 - Check Actions logs for API key issues
 - Verify `OPENAI_API_KEY` is set in repo secrets
