@@ -9,7 +9,7 @@ permissions:
   contents: write
   pages: write
 
-shows:
+jobs:
   crawl:
     strategy:
       fail-fast: false
