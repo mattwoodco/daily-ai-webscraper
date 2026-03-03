@@ -1,1 +1,254 @@
-[]
+[
+  {
+    "title": "Toadvine",
+    "company": "Empty Bottle",
+    "url": "https://www.bandsintown.com/e/1037844316-toadvine-at-empty-bottle?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Empty Bottle",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "The Part Timers",
+    "company": "Empty Bottle",
+    "url": "https://www.bandsintown.com/e/1037844039-the-part-timers-at-empty-bottle?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Empty Bottle",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Winefred RT",
+    "company": "Empty Bottle",
+    "url": "https://www.bandsintown.com/e/1037843812-winefred-rt-at-empty-bottle?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Empty Bottle",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Marques Carroll",
+    "company": "Chi-Town Trumpet Summit at Andy's Jazz Club",
+    "url": "https://www.bandsintown.com/e/107719629-marques-carroll-at-andy's-jazz-club-and-restaurant?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Andy's Jazz Club",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "The Pinkerton Raid",
+    "company": "David Wimbish (The Collection) w/ Jesse James DeConto (The Pinkerton Raid)",
+    "url": "https://www.bandsintown.com/e/107830374-the-pinkerton-raid-at-the-law-office-pub?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Law Office Pub",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Naomi Ashley",
+    "company": "Naomi hosts FitzGerald's Songwriter Circle feat. Josh Rosenstein & Anna Soltys",
+    "url": "https://www.bandsintown.com/e/107747514-naomi-ashley-at-fitzgerald's?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "FitzGerald's",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Maisy Kay",
+    "company": "Maisy Kay Live | The Art of Being a Mess Tour",
+    "url": "https://www.bandsintown.com/e/107765960-maisy-kay-at-house-of-blues-chicago?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "House of Blues Chicago",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Sam Thousand",
+    "company": "ChiBrations' UPFRONT",
+    "url": "https://www.bandsintown.com/e/108002985-sam-thousand-at-experimental-station?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Experimental Station",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Dina Bach Music",
+    "company": "Chicago Marriott Naperville",
+    "url": "https://www.bandsintown.com/e/108022029-dina-bach-music-at-chicago-marriott-naperville?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Chicago Marriott Naperville",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Hanumankind",
+    "company": "Thalia Hall",
+    "url": "https://www.bandsintown.com/e/107478203-hanumankind-at-thalia-hall?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Thalia Hall",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "The Aggrolites",
+    "company": "The Salt Shed",
+    "url": "https://www.bandsintown.com/e/1036849825-the-aggrolites-at-the-salt-shed?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Salt Shed",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "David Wimbish & The Collection",
+    "company": "The Law Office Pub",
+    "url": "https://www.bandsintown.com/e/107837733-david-wimbish-and-the-collection-at-the-law-office-pub?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Law Office Pub",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Recoechi",
+    "company": "HANUMANKIND W/ RECOECHI",
+    "url": "https://www.bandsintown.com/e/108024237-recoechi-at-thalia-hall?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Thalia Hall",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Slugger",
+    "company": "The Salt Shed",
+    "url": "https://www.bandsintown.com/e/1037891989-slugger-at-the-salt-shed?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Salt Shed",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Bricknasty",
+    "company": "Bricknasty - Schubas Tavern - Chicago",
+    "url": "https://www.bandsintown.com/e/107504405-bricknasty-at-schubas-tavern?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Schubas Tavern",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Cash Box Kings",
+    "company": "The Cash Box Kings! WDCB Bluesday Tuesday w/ Host Scott \"Hambone\" Hammer",
+    "url": "https://www.bandsintown.com/e/107904283-cash-box-kings-at-fitzgerald's?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Fitzgerald's",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Josephine (Chicago)",
+    "company": "Josephine at Empty Bottle (Nothing Assumed Series)",
+    "url": "https://www.bandsintown.com/e/107923331-josephine-(chicago)-at-empty-bottle?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Empty Bottle",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Cure for Paranoia",
+    "company": "Subterranean",
+    "url": "https://www.bandsintown.com/e/107830883-cure-for-paranoia-at-subterranean?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Subterranean",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Dropkick Murphys",
+    "company": "The Salt Shed",
+    "url": "https://www.bandsintown.com/e/1036849812-dropkick-murphys-at-the-salt-shed?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Salt Shed",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Mark Toland",
+    "company": "The Showcase",
+    "url": "https://www.bandsintown.com/e/107740614-mark-toland-at-chicago-magic-lounge?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Chicago Magic Lounge",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Lauren Spencer Smith",
+    "company": "Aragon Ballroom",
+    "url": "https://www.bandsintown.com/e/106983352-lauren-spencer-smith-at-aragon-ballroom?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Aragon Ballroom",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Haywire",
+    "company": "The Salt Shed",
+    "url": "https://www.bandsintown.com/e/1036849884-haywire-at-the-salt-shed?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Salt Shed",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Trace Bundy",
+    "company": "Hey Nonny",
+    "url": "https://www.bandsintown.com/e/1037180075-trace-bundy-at-hey-nonny?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Hey Nonny",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "David Wimbish",
+    "company": "The Law Office Pub",
+    "url": "https://www.bandsintown.com/e/1037728266-david-wimbish-at-the-law-office-pub?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Law Office Pub",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Low Cut Connie",
+    "company": "Low Cut Connie SOLO",
+    "url": "https://www.bandsintown.com/e/107433283-low-cut-connie-at-city-winery-chicago?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "City Winery Chicago",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Winefred RT",
+    "company": "Beat Kitchen",
+    "url": "https://www.bandsintown.com/e/1037912305-winefred-rt-at-beat-kitchen?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Beat Kitchen",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Generifus",
+    "company": "Clowntown",
+    "url": "https://www.bandsintown.com/e/107911295-generifus-at-clowntown?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Clowntown",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Colt Ball",
+    "company": "Reggae / Funk / Jam / Hip Hop (in Da Lounge!)",
+    "url": "https://www.bandsintown.com/e/107936231-colt-ball-at-lil-bean-farmer's-market?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Lil Bean Farmer's Market",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Guitarricadelafuente",
+    "company": "Lincoln Hall",
+    "url": "https://www.bandsintown.com/e/1036728127-guitarricadelafuente-at-lincoln-hall?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Lincoln Hall",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Hootenanny",
+    "company": "Lemon",
+    "url": "https://www.bandsintown.com/e/1037590583-hootenanny-at-lemon?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Lemon",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Freddie Sunshine",
+    "company": "Subterranean",
+    "url": "https://www.bandsintown.com/e/1037896973-freddie-sunshine-at-subterranean?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Subterranean",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Matt Krahula",
+    "company": "Yoga and Live Music Series",
+    "url": "https://www.bandsintown.com/e/107939075-matt-krahula-at-the-vine-martini-and-wine-bar?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Vine Martini and Wine Bar",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Mark Toland",
+    "company": "Corporate Event",
+    "url": "https://www.bandsintown.com/e/107983802-mark-toland-at-corporate-event?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Corporate Event",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Beartooth",
+    "company": "Allstate Arena",
+    "url": "https://www.bandsintown.com/e/107521366-beartooth-at-allstate-arena?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Allstate Arena",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Gina Gonzalez",
+    "company": "Gina Gonzalez at Life Time in Lake Zurich",
+    "url": "https://www.bandsintown.com/e/107753279-gina-gonzalez-at-life-time?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Life Time in Lake Zurich",
+    "date": "2026-03-03T06:12:06.529Z"
+  },
+  {
+    "title": "Kevin Fort",
+    "company": "Winter's Jazz Club",
+    "url": "https://www.bandsintown.com/e/107895170-kevin-fort-at-winter's-jazz-club?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Winter's Jazz Club",
+    "date": "2026-03-03T06:12:06.529Z"
+  }
+]
