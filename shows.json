@@ -1,1 +1,254 @@
-[]
+[
+  {
+    "title": "Salem's Bend",
+    "company": "Sinister Sounds Fest 2026, Night 1",
+    "url": "https://www.bandsintown.com/e/108628687-salem's-bend-at-neck-of-the-woods?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Neck of the Woods",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Almost Dead",
+    "company": "Metal At The Shack",
+    "url": "https://www.bandsintown.com/e/108609105-almost-dead-at-shanty-shack-brewing?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Shanty Shack Brewing",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Floratura",
+    "company": "Cafe Du Nord - Don't Tell John, Floratura, Stimmy",
+    "url": "https://www.bandsintown.com/e/108446588-floratura-at-cafe-du-nord?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Cafe Du Nord",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Bobby Joe Ebola and the Children MacNuggits",
+    "company": "Schlong, Party Force, Bobby Joe Ebola, Contraptions, Flamango Bay",
+    "url": "https://www.bandsintown.com/e/108562963-bobby-joe-ebola-and-the-children-macnuggits-at-924-gilman?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "924 Gilman",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "The Queen & I",
+    "company": "Spats Berkeley",
+    "url": "https://www.bandsintown.com/e/108537606-the-queen-and-i-at-spats-berkeley?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Spats Berkeley",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Little Oil",
+    "company": "Adam Spry, Little Oil, Jenny Haniver live",
+    "url": "https://www.bandsintown.com/e/108489552-little-oil-at-4-star-theater?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "4 Star Theater",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Los Fugitivos",
+    "company": "MAYA NIGHTCLUB",
+    "url": "https://www.bandsintown.com/e/1039347206-los-fugitivos-at-maya-nightclub?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "MAYA NIGHTCLUB",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Olivia Dean",
+    "company": "Chase Center",
+    "url": "https://www.bandsintown.com/e/1037162540-olivia-dean-at-chase-center?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Chase Center",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Los Mismos",
+    "company": "MAYA NIGHTCLUB",
+    "url": "https://www.bandsintown.com/e/1039347191-los-mismos-at-maya-nightclub?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "MAYA NIGHTCLUB",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Meredith Edgar",
+    "company": "Lisa Marie Johnston +. Mike Hellman + Meredith Edgar",
+    "url": "https://www.bandsintown.com/e/108587587-meredith-edgar-at-old-princeton-landing-public-house-and-grill?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Old Princeton Landing Public House and Grill",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "The Trouble With Monkeys",
+    "company": "Ivy Room",
+    "url": "https://www.bandsintown.com/e/1039323213-the-trouble-with-monkeys-at-ivy-room?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Ivy Room",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Baby Rose",
+    "company": "Chase Center",
+    "url": "https://www.bandsintown.com/e/1039448531-baby-rose-at-chase-center?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Chase Center",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Hangtown",
+    "company": "The Hotel Utah Saloon",
+    "url": "https://www.bandsintown.com/e/1039170231-hangtown-at-the-hotel-utah-saloon?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Hotel Utah Saloon",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Persephone",
+    "company": "The Hotel Utah Saloon",
+    "url": "https://www.bandsintown.com/e/1039170410-persephone-at-the-hotel-utah-saloon?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Hotel Utah Saloon",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Porkbelly",
+    "company": "Bottom Of the Hill",
+    "url": "https://www.bandsintown.com/e/1038397369-porkbelly-at-bottom-of-the-hill?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Bottom Of the Hill",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Grupo Ladron",
+    "company": "MAYA NIGHTCLUB",
+    "url": "https://www.bandsintown.com/e/1039394135-grupo-ladron-at-maya-nightclub?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "MAYA NIGHTCLUB",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Fleetmac Wood",
+    "company": "Felton Music Hall",
+    "url": "https://www.bandsintown.com/e/1038706196-fleetmac-wood-at-felton-music-hall?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Felton Music Hall",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "The Young Dubliners",
+    "company": "The Ritz",
+    "url": "https://www.bandsintown.com/e/108130504-the-young-dubliners-at-the-ritz?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Ritz",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "The Cyber Bullies",
+    "company": "The Hotel Utah Saloon",
+    "url": "https://www.bandsintown.com/e/108590426-the-cyber-bullies-at-the-hotel-utah-saloon?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Hotel Utah Saloon",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Strangelove-The DEPECHE MODE Experience",
+    "company": "Strangelove-The Depeche Mode Experience at The Guild Theatre",
+    "url": "https://www.bandsintown.com/e/108448395-strangelove-the-depeche-mode-experience-at-the-guild-theatre?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Guild Theatre",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Ted Leo and The Pharmacists",
+    "company": "Bottom Of the Hill",
+    "url": "https://www.bandsintown.com/e/1038398352-ted-leo-and-the-pharmacists-at-bottom-of-the-hill?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Bottom Of the Hill",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Liquid Sky",
+    "company": "Ivy Room",
+    "url": "https://www.bandsintown.com/e/1039107392-liquid-sky-at-ivy-room?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Ivy Room",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Ruben Fox",
+    "company": "Olivia Dean - The Art of Loving Tour - Chase Center",
+    "url": "https://www.bandsintown.com/e/108353185-ruben-fox-at-chase-center?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Chase Center",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Emm",
+    "company": "THE DUMB TOUR",
+    "url": "https://www.bandsintown.com/e/107387345-emm-at-the-chapel?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Chapel",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Monty Franklin",
+    "company": "Rooster T. Feathers Comedy Club",
+    "url": "https://www.bandsintown.com/e/108495721-monty-franklin-at-rooster-t.-feathers-comedy-club?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Rooster T. Feathers Comedy Club",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Cyber Bullies",
+    "company": "The Hotel Utah Saloon",
+    "url": "https://www.bandsintown.com/e/1039169363-cyber-bullies-at-the-hotel-utah-saloon?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Hotel Utah Saloon",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "LA AUTENTICA DE JEREZ",
+    "company": "Celia's Event Center",
+    "url": "https://www.bandsintown.com/e/1039238777-la-autentica-de-jerez-at-celia's-event-center?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Celia's Event Center",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Gaucho",
+    "company": "Gaucho at Comstock Saloon",
+    "url": "https://www.bandsintown.com/e/108463974-gaucho-at-comstock-saloon?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Comstock Saloon",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Adam Spry",
+    "company": "Adam Spry California Tour // 4 Star Theater",
+    "url": "https://www.bandsintown.com/e/108461792-adam-spry-at-4-star-theater?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "4 Star Theater",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Pure Prairie League",
+    "company": "The Freight",
+    "url": "https://www.bandsintown.com/e/1038131511-pure-prairie-league-at-the-freight?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Freight",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "All Your Friends",
+    "company": "Rickshaw Stop",
+    "url": "https://www.bandsintown.com/e/1038686341-all-your-friends-at-rickshaw-stop?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Rickshaw Stop",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Chalk Teeth",
+    "company": "The Great Northern",
+    "url": "https://www.bandsintown.com/e/1039411668-chalk-teeth-at-the-great-northern?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Great Northern",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Bentley Robles",
+    "company": "The Chapel",
+    "url": "https://www.bandsintown.com/e/1037574920-bentley-robles-at-the-chapel?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "The Chapel",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Camilla Covington",
+    "company": "Brick & Mortar Music Hall",
+    "url": "https://www.bandsintown.com/e/1039465268-camilla-covington-at-brick-and-mortar-music-hall?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Brick & Mortar Music Hall",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Legado 7",
+    "company": "Hacienda Mexican Grill",
+    "url": "https://www.bandsintown.com/e/1039584114-legado-7-at-hacienda-mexican-grill?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Hacienda Mexican Grill",
+    "date": "2026-07-11T06:40:56.502Z"
+  },
+  {
+    "title": "Elevado",
+    "company": "Hacienda Mexican Grill",
+    "url": "https://www.bandsintown.com/e/1039583777-elevado-at-hacienda-mexican-grill?came_from=274&utm_medium=web&utm_source=search_result&utm_campaign=event",
+    "location": "Hacienda Mexican Grill",
+    "date": "2026-07-11T06:40:56.502Z"
+  }
+]
